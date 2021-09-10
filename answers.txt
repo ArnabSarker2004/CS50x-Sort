@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: In the case of sorted number/ the best case scenario, sort 1 rook less than half the time compared to Selection Sort/ sort3
+
+sort2 uses: Merge Sort
+
+How do you know?: This soring algorithm took the least amount of time ot sort the biggest text files
+
+sort3 uses: Selection Sort
+
+How do you know?: In the case of sorted number/ the best case scenario, sort 3 rook double the time compared to Bubble Sort/ sort1
